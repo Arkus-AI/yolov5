@@ -1,5 +1,5 @@
-train: /Datasets/medicover/processed/yolo_data/images/train
-val: /Datasets/medicover/processed/yolo_data/images/val
+train: /Datasets/medicover/processed/train/yolo/synthetic/train/images
+val: /Datasets/medicover/processed/train/yolo/synthetic/val/images
 
 nc: 24
 
